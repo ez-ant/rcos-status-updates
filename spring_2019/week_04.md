@@ -1,13 +1,15 @@
 ## Last Week's Accomplishments
 
-> database implementation
+> learn php
 
-> Examples:
+> Examples: how php work
 > 
 
 ## This Week's Plan
 
-> add some specification for database
+> thinking of database implementation, consider which function should be added and why
+
+> Examples: add_picture function is necessary because we need upload food's picture
 
 > Examples: 
 

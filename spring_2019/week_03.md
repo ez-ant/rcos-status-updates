@@ -7,7 +7,7 @@
 
 ## This Week's Plan
 
-> write a program to upload database's data to website after database is done.
+> write a program used to upload database's data to website after database is done(although it may take some time)
 
 > Examples: 
 

@@ -7,7 +7,7 @@
 
 ## This Week's Plan
 
->  working on database, add its function.
+> continue working on database, add its function.
 
 > Examples: 
 
